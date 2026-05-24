@@ -4,7 +4,7 @@
 <img src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" alt="Workspace"  width="40%"/><br> 
 
 <details>
-<summary><strong> 💻 About Me </strong></summary>
+<summary><strong> 💻 Hello Coders! </strong></summary>
 <br>
 <p align="center">
   Hi, I'm <strong>Sadeel Qashoa</strong>! A Computer Systems Engineering student passionate about competitive programming, deep learning, and problem-solving.
