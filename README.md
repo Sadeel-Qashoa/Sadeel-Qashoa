@@ -4,10 +4,11 @@
 <img src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" alt="Workspace"  width="40%"/><br> 
 
 <details>
-<p><strong> <summary>  Busy coding & Vibing to :   </summary> </strong></p>
-
-[![Spotify](https://spotify-readme.sp-xd.vercel.app/api/spotify)](https://open.spotify.com/user/somnathpaul) <br>
-
+<summary><strong> 💻 About Me </strong></summary>
+<br>
+<p align="center">
+  Hi, I'm <strong>Sadeel Qashoa</strong>! A Computer Systems Engineering student passionate about competitive programming, deep learning, and problem-solving.
+</p>
 </details>
 
 </div>
@@ -40,4 +41,3 @@ public:
     std::vector<std::string> ai_and_data = {"TensorFlow", "NumPy", "Pandas", "Matplotlib"};
     std::vector<std::string> tools = {"Git", "GitHub", "VS Code", "IntelliJ", "CLion", "Cisco Packet Tracer"};
 };
-
